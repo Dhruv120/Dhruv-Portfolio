@@ -185,7 +185,7 @@ ul {
 }
 
 .aside {
-    width: 270px;
+    width: 240px;
     background: var(--bg-black-100);
     position: fixed;
     left: 0;
